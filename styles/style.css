@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+h1, h3 {
+    text-align: center;
+    
+}
+
+p {
+
+    padding-left: 5em;
+    padding-right: 5em;
+    text-align: justify;
+    font-size: large;
+}
+
+button {
+    margin-top: 1em;
+    margin-left: 47%;
+    text-align: center;
+    font-size: 2em;
+    padding: 0.5em 1.5em 0.5em 1.5em;
+    background-color: black;
+    color: white;
+}
+.pageTitle {
+    background-color: gainsboro;
+    color: black;
+    padding-bottom: 0.1em;    
+    margin: 0 5em 0 5em;
+}
+img {
+    position: relative;
+    margin: auto;
+    top: 0;
+    left: 37.5%;
+    right: 37.5%;
+    bottom: 0;
+}

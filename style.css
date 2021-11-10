@@ -28,4 +28,5 @@ button {
     background-color: gainsboro;
     color: black;
     padding-bottom: 0.1em;    
+    margin: 0 5em 0 5em;
 }

@@ -1,9 +1,9 @@
 body {
-    background-color: black;
+    background-color: white;
+    color: black;
 }
 
 h1 {
-    color: blanchedalmond;
     text-align: center;
     padding-top: 1em;
     padding-bottom: 0.5em;
@@ -11,7 +11,7 @@ h1 {
 }
 
 p {
-    color: white;
+
     padding-left: 5em;
     padding-right: 5em;
     text-align: justify;

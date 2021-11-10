@@ -33,3 +33,11 @@ button {
     padding-bottom: 0.1em;    
     margin: 0 5em 0 5em;
 }
+img {
+    position: relative;
+    margin: auto;
+    top: 0;
+    left: 25%;
+    right: 0;
+    bottom: 0;
+}

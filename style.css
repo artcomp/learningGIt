@@ -24,3 +24,8 @@ button {
     text-align: center;
     font-size: 1em;
 }
+.pageTitle {
+    background-color: gainsboro;
+    color: black;
+    padding-bottom: 0.1em;    
+}

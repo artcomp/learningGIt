@@ -5,5 +5,15 @@ body {
 h1 {
     color: blanchedalmond;
     text-align: center;
-    padding: 10px;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    
+}
+
+p {
+    color: white;
+    padding-left: 5em;
+    padding-right: 5em;
+    text-align: justify;
+    font-size: large;
 }

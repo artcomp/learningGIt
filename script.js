@@ -1,6 +1,5 @@
-var a = 10;
-
-for (let index = 0; index < 5; index++) {
-    console.log(index);
+function buttonFunction(){
+    alert("You clicked the Button !!!");
 }
+
 
